@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ViewAnimation.iml" filepath="$PROJECT_DIR$/ViewAnimation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/circularBeam/circularBeam.iml" filepath="$PROJECT_DIR$/circularBeam/circularBeam.iml" />
+    </modules>
+  </component>
+</project>
+
